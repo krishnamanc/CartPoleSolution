@@ -9,9 +9,9 @@ In this project, we train a DQN agent to learn and perform tasks in the OpenAI G
 
 ## Contents
 
-- `train_dqn.py`: Python script for training the DQN agent.
-- `my_dqn_agent.h5`: Saved DQN agent model.
-- `evaluate_dqn.py`: Python script for evaluating the DQN agent in the environment.
+- `drl.ipynb`: Jupyter Notebook for training the DQN agent.
+- `cartpole.h5`: Saved DQN agent model.
+- `test.ipynb`: Jupyter Notebook for evaluating the DQN agent in the environment.
 - `requirements.txt`: List of Python dependencies required to run the code.
 
 ## Usage
